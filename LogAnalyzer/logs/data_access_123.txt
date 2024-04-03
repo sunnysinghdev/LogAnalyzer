@@ -1,0 +1,6 @@
+﻿warning: duplicate record found
+error: records cannot be inserted
+fail: Could not connect to database
+warning: duplicate record found
+warning: duplicate record found
+error: records cannot be inserted
